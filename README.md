@@ -22,16 +22,15 @@ I'm an aspiring **Full-Stack Developer** currently honing my skills in **MERN St
 ---
 
 ### 📌 Currently Learning
-- Advanced React Concepts (Redux, Context API)
-- Authentication & Security (JWT, OAuth)
-- System Design & Scalable Architecture
+- Advanced React Concepts (Redux, Context API) ✅ *(In Progress)*
+- Authentication & Security (JWT, OAuth) ⏳ *(Upcoming)*
+- System Design & Scalable Architecture ✅ *(In Progress)*
 
 ### 📂 Projects
 🔹 **To-Do App** - A simple yet powerful task management application. [🔗 Repo](#)  
 🔹 **Weather App** - A real-time weather application fetching live data from an API. [🔗 Repo](#)  
-  
 
-### 📫 Connect with Me
+### 📧 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox)](https://your-portfolio.com)
